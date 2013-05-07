@@ -1,0 +1,26 @@
+{
+  "name": "brozie-jobqueue",
+  "version": "0.0.2",
+  "description": "",
+  "main": "server.js",
+  "dependencies": {
+    "config": "~0.4.24",
+    "cluster": "~0.7.7",
+    "basic-logger": "~0.4.4",
+    "async": "~0.2.7",
+    "amqp": "~0.1.6",
+    "underscore": "~1.4.4",
+    "amqp-stats": "0.0.12",
+    "node-syslog": "~1.1.7"
+  },
+  "devDependencies": {
+    "mocha": ""
+  },
+  "scripts": {
+    "test": "mocha -R spec tests/*",
+    "start": "node server.js"
+  },
+  "repository": "",
+  "author": "btamas",
+  "license": "BSD"
+}
