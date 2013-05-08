@@ -6,7 +6,7 @@
 Brozie is a new type of browser that makes all websites interactive for the user without registering or installing anything, and the service is completely free. Its framework provides a separate channel of communication for individual websites. Through Brozie, users can talk and share content with each other on the same site in real-time.
 
 
-## Why does Brozie need a jobqueu system
+## Why does Brozie need a jobqueue system
 
 Brozie has a lot of backend procedure like NewsCloud updating or refresh of friends recommendations. These are important processes but these may take more time than we can do it in realtime. So we thought a lot and made a reliable jobqueue system that can do these tasks in the background.
 
