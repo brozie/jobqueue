@@ -15,10 +15,6 @@ Brozie has a lot of backend procedure like NewsCloud updating or refresh of frie
 
 RabbitMQ is written in Erlang and it works asynchronously and that was an important thing when we chose. RabbitMQ implements AMQP (Advanced Message Queuing Protocol) which is a standard message protocol and almost every language has a module that supports it. We use PHP and Node.js based modules. In our decision played a serious role, that RabbitMQ has a fancy webUI.
 
-Redis: We could have chosen Redis also, but it wouldn't be the best solution for that type of use.
-
-ZeroMQ: We tried it, and it was really fast, but... it would need much more development and it couldn't support message routing.
-
 
 ##How it works
 
