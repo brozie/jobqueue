@@ -39,7 +39,7 @@ The Brozie has used this system for 4 months. We have about 15 tasks that makes 
 
 (The MIT License)
 
-Copyright (c) 2012 Jarrad Seers &lt;jarrad@jarradseers.com&gt;
+Copyright (c) 2013 Brozie &lt;dev@brozie.com&gt;
 
 Permission is hereby granted, free of charge, to any person obtaining
 a copy of this software and associated documentation files (the
